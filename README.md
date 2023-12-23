@@ -1,6 +1,6 @@
 Machine Learning Project: Teaching Technique Recommender with Streamlit Interface
 Overview
-This machine learning project aims to provide a user-friendly interface for suggesting the most appropriate teaching technique based on three input parameters: age of the students, their intellectual ability, and the topic to be taught. The project leverages the Multinomial Naive Bayes theorem for predictions and Natural language processingand integrates a web interface using the Streamlit Python library.
+This machine learning project aims to provide a user-friendly interface for suggesting the most appropriate teaching technique based on three input parameters: age of the students, their intellectual ability, and the topic to be taught. The project leverages the Multinomial Naive Bayes theorem  and Natural language processing for predictions  and integrates a web interface using the Streamlit Python library.
 
 Dataset
 The dataset used for training and testing the model should include the following features:
